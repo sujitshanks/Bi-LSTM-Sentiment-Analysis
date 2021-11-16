@@ -18,3 +18,8 @@ Additional features: tf-idf values, word importance metrics
 Should have plotted error over epoch to identify convergence or plateauing.
 Hyperparameter optimization: adam takes care of gradient issues, activation function?, number of layers, play with dropout.
 Train own corpus with respect to the four topics? Possible but cumbersome.
+
+Glove embeddings:
+# 1. GloVe Dataset: https://www.kaggle.com/watts2/glove6b50dtxt
+# 2. Alternate bigger corpora: https://nlp.stanford.edu/data/wordvecs/glove.42B.300d.zip
+
